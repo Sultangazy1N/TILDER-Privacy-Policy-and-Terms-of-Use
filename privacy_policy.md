@@ -59,7 +59,7 @@ Significant updates will appear in-app.
 Continued use = acceptance.
 
 ### 10. Contact
-Email: [privacy@tilder.kz](mailto:privacy@tilder.kz)
+Email: [sultangazy.nurgazy@gmail.com](mailto:sultangazy.nurgazy@gmail.com)
 
 ### 11. Compliance
 - GDPR (EU)
@@ -120,7 +120,7 @@ Email: [privacy@tilder.kz](mailto:privacy@tilder.kz)
 Использование = согласие.
 
 ### 10. Контакты
-Email: [privacy@tilder.kz](mailto:privacy@tilder.kz)
+Email: [sultangazy.nurgazy@gmail.com](mailto:sultangazy.nurgazy@gmail.com)
 
 ### 11. Соответствие
 - GDPR (ЕС)
@@ -181,7 +181,7 @@ Email: [privacy@tilder.kz](mailto:privacy@tilder.kz)
 Қолдану = келісу.
 
 ### 10. Байланыс
-Email: [privacy@tilder.kz](mailto:privacy@tilder.kz)
+Email: [sultangazy.nurgazy@gmail.com](mailto:sultangazy.nurgazy@gmail.com)
 
 ### 11. Сәйкестік
 - GDPR (ЕО)
